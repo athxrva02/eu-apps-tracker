@@ -1,0 +1,25 @@
+.venv/
+.data/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+frontend/dist/
+test-results/
+*.sqlite*
+*.log
+.DS_Store
+# Private source documents and uploads must never enter source control.
+Manoj Dagaonkar CV v6.docx
+*.docx
+*.pdf
+*.pem
+*.key
+*.p12
+*.pfx
+uploads/
+private_inputs/
