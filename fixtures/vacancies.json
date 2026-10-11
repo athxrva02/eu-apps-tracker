@@ -1,0 +1,421 @@
+[
+  {
+    "external_id": "demo-1",
+    "company": "Aster Homecare",
+    "title": "Regional R&D Director",
+    "url": "https://careers.example.com/jobs/demo-1",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Rotterdam, Netherlands"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "hybrid",
+    "label": "relevant",
+    "publication_age_hours": 1,
+    "demo": true
+  },
+  {
+    "external_id": "demo-2",
+    "company": "Northstar Materials",
+    "title": "Head of Formulation",
+    "url": "https://careers.example.com/jobs/demo-2",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Hamburg, Germany"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "on-site",
+    "label": "relevant",
+    "publication_age_hours": 4,
+    "demo": true
+  },
+  {
+    "external_id": "demo-3",
+    "company": "Lumen Consumer Science",
+    "title": "Global Innovation Director",
+    "url": "https://careers.example.com/jobs/demo-3",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "work_mode": "unknown",
+    "label": "relevant",
+    "publication_age_hours": 7,
+    "demo": true
+  },
+  {
+    "external_id": "demo-4",
+    "company": "Aster Homecare",
+    "title": "Director Product Development",
+    "url": "https://careers.example.com/jobs/demo-4",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Rotterdam, Netherlands"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "hybrid",
+    "label": "relevant",
+    "publication_age_hours": 10,
+    "demo": true
+  },
+  {
+    "external_id": "demo-5",
+    "company": "Northstar Materials",
+    "title": "Digital R&D Director",
+    "url": "https://careers.example.com/jobs/demo-5",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Hamburg, Germany"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "on-site",
+    "label": "relevant",
+    "publication_age_hours": 13,
+    "demo": true
+  },
+  {
+    "external_id": "demo-6",
+    "company": "Lumen Consumer Science",
+    "title": "Director Open Innovation & Partnerships",
+    "url": "https://careers.example.com/jobs/demo-6",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "work_mode": "unknown",
+    "label": "relevant",
+    "publication_age_hours": 16,
+    "demo": true
+  },
+  {
+    "external_id": "demo-7",
+    "company": "Aster Homecare",
+    "title": "Global Product Development Director",
+    "url": "https://careers.example.com/jobs/demo-7",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Rotterdam, Netherlands"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "hybrid",
+    "label": "relevant",
+    "publication_age_hours": 19,
+    "demo": true
+  },
+  {
+    "external_id": "demo-8",
+    "company": "Northstar Materials",
+    "title": "Head of Applied R&D",
+    "url": "https://careers.example.com/jobs/demo-8",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Hamburg, Germany"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "on-site",
+    "label": "relevant",
+    "publication_age_hours": 22,
+    "demo": true
+  },
+  {
+    "external_id": "demo-9",
+    "company": "Lumen Consumer Science",
+    "title": "Leiter Forschung und Entwicklung",
+    "url": "https://careers.example.com/jobs/demo-9",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "work_mode": "unknown",
+    "label": "relevant",
+    "publication_age_hours": 25,
+    "demo": true
+  },
+  {
+    "external_id": "demo-10",
+    "company": "Aster Homecare",
+    "title": "Directeur Innovation",
+    "url": "https://careers.example.com/jobs/demo-10",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Rotterdam, Netherlands"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "hybrid",
+    "label": "relevant",
+    "publication_age_hours": 28,
+    "demo": true
+  },
+  {
+    "external_id": "demo-11",
+    "company": "Northstar Materials",
+    "title": "Senior Innovation Manager",
+    "url": "https://careers.example.com/jobs/demo-11",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Hamburg, Germany"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "on-site",
+    "label": "relevant",
+    "publication_age_hours": 31,
+    "demo": true
+  },
+  {
+    "external_id": "demo-12",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Director Food Innovation",
+    "url": "https://careers.example.com/jobs/demo-12",
+    "description": "Oversee research and development for food science. Lead team strategy and portfolio investment. Build innovation roadmaps and partner with suppliers. Commercial scale-up and regulatory safety. This is an adjacent sector requiring a review of domain-specific experience. English required.",
+    "locations": [
+      "NL"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "unknown",
+    "label": "adjacent",
+    "provisional": false,
+    "publication_age_hours": 48,
+    "demo": true
+  },
+  {
+    "external_id": "demo-13",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Technology Director — Pharmaceuticals",
+    "url": "https://careers.example.com/jobs/demo-13",
+    "description": "Lead research and development portfolio strategy with executive stakeholders. Develop innovation roadmaps for clinical drug discovery and regulatory filings. Clinical trials experience is essential. Review domain-specific gaps; no assumption of pharmaceutical qualifications.",
+    "locations": [
+      "CH"
+    ],
+    "countries": [
+      "CH"
+    ],
+    "work_mode": "unknown",
+    "label": "adjacent",
+    "provisional": false,
+    "publication_age_hours": 52,
+    "demo": true
+  },
+  {
+    "external_id": "demo-14",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Head of Manufacturing Excellence",
+    "url": "https://careers.example.com/jobs/demo-14",
+    "description": "Lead team strategy and portfolio investment, plant operations and process safety for chemicals. Own supplier partnerships and scale-up. Manufacturing leadership is adjacent and requires profile evidence; this is not primarily a formulation or product development role.",
+    "locations": [
+      "BE"
+    ],
+    "countries": [
+      "BE"
+    ],
+    "work_mode": "unknown",
+    "label": "adjacent",
+    "provisional": false,
+    "publication_age_hours": 56,
+    "demo": true
+  },
+  {
+    "external_id": "demo-15",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Innovation Director — Retail Operations",
+    "url": "https://careers.example.com/jobs/demo-15",
+    "description": "Manage stores, merchandising and customer service. Lead retail team strategy. Own budgets for store refurbishment. No laboratory research or scientific product development responsibilities.",
+    "locations": [
+      "DE"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "unknown",
+    "label": "misleading",
+    "provisional": false,
+    "publication_age_hours": 60,
+    "demo": true
+  },
+  {
+    "external_id": "demo-16",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Director Software Engineering",
+    "url": "https://careers.example.com/jobs/demo-16",
+    "description": "Lead cloud platform software delivery, backend services and DevOps. Build software architecture.",
+    "locations": [
+      "GB"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "work_mode": "unknown",
+    "label": "unrelated",
+    "provisional": false,
+    "publication_age_hours": 64,
+    "demo": true
+  },
+  {
+    "external_id": "demo-17",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Junior Formulation Chemist",
+    "url": "https://careers.example.com/jobs/demo-17",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "NL"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "work_mode": "unknown",
+    "label": "junior",
+    "provisional": false,
+    "publication_age_hours": 68,
+    "demo": true
+  },
+  {
+    "external_id": "demo-18",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Laboratory Technician",
+    "url": "https://careers.example.com/jobs/demo-18",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "DE"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "work_mode": "unknown",
+    "label": "junior",
+    "provisional": false,
+    "publication_age_hours": 72,
+    "demo": true
+  },
+  {
+    "external_id": "demo-19",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Graduate R&D Intern",
+    "url": "https://careers.example.com/jobs/demo-19",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "GB"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "work_mode": "unknown",
+    "label": "junior",
+    "provisional": false,
+    "publication_age_hours": 76,
+    "demo": true
+  },
+  {
+    "external_id": "demo-20",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Director R&D — US only",
+    "url": "https://careers.example.com/jobs/demo-20",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "US"
+    ],
+    "countries": [
+      "US"
+    ],
+    "work_mode": "unknown",
+    "label": "outside",
+    "provisional": false,
+    "publication_age_hours": 80,
+    "demo": true
+  },
+  {
+    "external_id": "demo-21",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Global Formulation Director — Singapore",
+    "url": "https://careers.example.com/jobs/demo-21",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "SG"
+    ],
+    "countries": [
+      "SG"
+    ],
+    "work_mode": "unknown",
+    "label": "outside",
+    "provisional": false,
+    "publication_age_hours": 84,
+    "demo": true
+  },
+  {
+    "external_id": "demo-22",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Head of Innovation — email excerpt",
+    "url": "https://careers.example.com/jobs/demo-22",
+    "description": "Formulation leadership opportunity. Full description not provided.",
+    "locations": [
+      "FR"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "work_mode": "unknown",
+    "label": "provisional",
+    "provisional": true,
+    "publication_age_hours": 88,
+    "demo": true
+  },
+  {
+    "external_id": "demo-23",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Regional Technology Director — location unknown",
+    "url": "https://careers.example.com/jobs/demo-23",
+    "description": "Lead global R&D team strategy and portfolio investment decisions. Build innovation roadmaps with executive stakeholder governance. Direct formulation and product development for home care, consumer FMCG and specialty chemicals. Own scale-up, commercialization, regulatory safety, patents and supplier partnerships. Develop digital R&D and predictive models. Chemical engineering PhD or equivalent experience. Sponsorship and salary not specified.",
+    "locations": [
+      "Location unspecified"
+    ],
+    "countries": [],
+    "work_mode": "unknown",
+    "label": "uncertain",
+    "provisional": false,
+    "publication_age_hours": 92,
+    "demo": true
+  },
+  {
+    "external_id": "demo-24",
+    "company": "Synthetic Opportunity Lab",
+    "title": "Director Customer Experience",
+    "url": "https://careers.example.com/jobs/demo-24",
+    "description": "Direct call centers and customer service operations. Manage escalations and service level agreements.",
+    "locations": [
+      "FR"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "work_mode": "unknown",
+    "label": "unrelated",
+    "provisional": false,
+    "publication_age_hours": 96,
+    "demo": true
+  }
+]

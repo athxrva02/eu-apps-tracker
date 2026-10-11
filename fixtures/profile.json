@@ -1,0 +1,51 @@
+{
+  "label": "Synthetic R&D leader \u2014 demo profile",
+  "demo": true,
+  "work_authorization": "unknown",
+  "salary_expectations": "unknown",
+  "notes": "Synthetic evidence for a credential-free demonstration. Upload and approve a real profile before live matching.",
+  "evidence": [
+    {
+      "id": "e1",
+      "category": "leadership",
+      "text": "Led global R&D teams and portfolio strategy, investment decisions, innovation roadmaps and executive stakeholder governance.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e2",
+      "category": "experience",
+      "text": "Research and development, formulation and end-to-end product development in home care, consumer FMCG and specialty chemicals.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e3",
+      "category": "experience",
+      "text": "Commercialization, scale-up, regulatory safety, supplier partnerships and patent creation across consumer product launches.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e4",
+      "category": "experience",
+      "text": "Digital R&D, predictive modeling and data-driven innovation transformation.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e5",
+      "category": "education",
+      "text": "PhD in Chemical Engineering.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e6",
+      "category": "languages",
+      "text": "English fluent; Dutch basic.",
+      "source": "synthetic demo"
+    },
+    {
+      "id": "e7",
+      "category": "preferences",
+      "text": "Open to relocation within Europe and the UK.",
+      "source": "synthetic demo"
+    }
+  ]
+}

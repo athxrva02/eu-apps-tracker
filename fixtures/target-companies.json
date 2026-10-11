@@ -1,0 +1,183 @@
+[
+  {
+    "name": "JDE Peets",
+    "countries": [
+      "NL"
+    ],
+    "url": "https://www.jdepeets.com/careers/exploreopportunities/"
+  },
+  {
+    "name": "Kraft Heinz",
+    "countries": [
+      "NL"
+    ],
+    "url": "https://careers.kraftheinzcompany.com/"
+  },
+  {
+    "name": "DSM-Firmenich",
+    "countries": [
+      "NL"
+    ],
+    "url": "https://careers.dsm-firmenich.com/en/careers.html"
+  },
+  {
+    "name": "AkzoNobel",
+    "countries": [
+      "NL"
+    ],
+    "url": "https://careers.akzonobel.com/"
+  },
+  {
+    "name": "IFF",
+    "countries": [
+      "NL"
+    ],
+    "url": "https://www.iff.com/careers/"
+  },
+  {
+    "name": "Danone",
+    "countries": [
+      "NL",
+      "FR"
+    ],
+    "url": "https://careers.danone.com/en-global/jobs.html"
+  },
+  {
+    "name": "Cargill",
+    "countries": [
+      "NL",
+      "BE"
+    ],
+    "url": "https://careers.cargill.com/en/search-jobs"
+  },
+  {
+    "name": "Henkel",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.henkel.com/careers/find-your-job-apply"
+  },
+  {
+    "name": "Beiersdorf",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.beiersdorf.com/career/your-application/job-search"
+  },
+  {
+    "name": "BASF",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.basf.com/global/en/careers"
+  },
+  {
+    "name": "Evonik",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.evonik.com/en/careers/jobs.html"
+  },
+  {
+    "name": "Bayer",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.bayer.com/en/careers"
+  },
+  {
+    "name": "Symrise",
+    "countries": [
+      "DE"
+    ],
+    "url": "https://www.symrise.com/your-career/search-and-apply/"
+  },
+  {
+    "name": "Reckitt",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://careers.reckitt.com/"
+  },
+  {
+    "name": "P&G",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://www.pgcareers.com/global/en"
+  },
+  {
+    "name": "Croda",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://www.croda.com/en-gb/careers/current-vacancies"
+  },
+  {
+    "name": "GSK",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://jobs.gsk.com/gb/en/home"
+  },
+  {
+    "name": "SC Johnson",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://jobs.scjohnson.com/en"
+  },
+  {
+    "name": "Kimberly-Clark",
+    "countries": [
+      "GB"
+    ],
+    "url": "https://careers.kimberly-clark.com/en/job-search"
+  },
+  {
+    "name": "Givaudan",
+    "countries": [
+      "CH",
+      "FR"
+    ],
+    "url": "https://www.givaudan.com/careers"
+  },
+  {
+    "name": "Nestlé",
+    "countries": [
+      "CH",
+      "FR"
+    ],
+    "url": "https://www.nestle.com/jobs"
+  },
+  {
+    "name": "Clariant",
+    "countries": [
+      "CH",
+      "FR"
+    ],
+    "url": "https://www.clariant.com/en/Careers/Job-Openings"
+  },
+  {
+    "name": "L’Oréal",
+    "countries": [
+      "CH",
+      "FR"
+    ],
+    "url": "https://careers.loreal.com/en"
+  },
+  {
+    "name": "Solvay",
+    "countries": [
+      "BE"
+    ],
+    "url": "https://careers.solvay.com/"
+  },
+  {
+    "name": "Barry Callebaut",
+    "countries": [
+      "BE"
+    ],
+    "url": "https://jobs.barry-callebaut.com/"
+  }
+]
